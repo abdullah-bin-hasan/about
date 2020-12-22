@@ -32,9 +32,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-
+      
     interests:
       - item: Cloud Computing
         link:
@@ -81,11 +79,7 @@ projects:
     assignments:
       - title: Blockchain Olympiad Bangladesh 2020
         link: "#hook"
-        tagline: "Participated in Blockchain Olympiad Bangladesh 2020 and Achieved 19th position in The Final round. Interacted with national and international Specialist including two assigned mentors for the team.
-
-      - title: Cisco Networking Academy national skills competition
-        link: "#"
-        tagline: "Participated in Cisco Networking Academy national skills competition 2020 and learned from a Special Networking Academy Learning Module in Cyber Security.
+        tagline: Participated in Blockchain Olympiad Bangladesh 2020 and Achieved 19th position in The Final round. Interacted with national and international Specialist including two assigned mentors for the team.
 
       - title: Microsoft Ignite Azure Apps & Infrastructure Challenge
         link: "#"
@@ -98,6 +92,11 @@ projects:
       - title: National Cyber Drill 2020 Bangladesh
         link: "#"
         tagline: Participated in National Cyber Drill 2020 Bangladesh.
+
+      - title: Cisco Networking Academy national skills competition
+        link: "#"
+        tagline: Participated in Cisco Networking Academy national skills competition 2020 and learned from a Special Networking Academy Learning Module in Cyber Security.
+
 
 publications:
     title: Certification
@@ -112,12 +111,12 @@ publications:
       - title: SRE and DevOps Engineer with Google Cloud Professional Certificate
         link: "#"
         authors: Google
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: 
 
       - title: Cloud Engineering with Google Cloud
         link: "#"
         authors: Google
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: 
 
       - title: Software Testing and Automation Specialization
         link: "#"

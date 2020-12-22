@@ -7,57 +7,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Abdullah Bin Hasan
+    tagline: Undergraduate Student
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: abdullah.binhasan@outlook.com
+    phone: +8801521221002
+    website: abdullah-binhasan.github.io/about-me #do not add http://
+    linkedin: abdullah-bin-hasan
+    github: abdullah-binhasan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Bangla
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Cloud Computing
         link:
 
-      - item: Snowboarding
+      - item: Software Defined Networking
         link:
 
-      - item: Cooking
+      - item: Site Reliebility Engineering
         link:
 
 career-profile:
-    title: Career Profile
+    title: Career Objective
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Seeking a position to explore career options in the Software and Information Technology field, 
+      As a motivated student, I’m flexible and open to learning from mentors and leaders in the field.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Science in Information Technology
+      university: University of Information Technology and Sciences
+      time: 2018 – 2021(expected)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +62,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Theology in Islamic Studies
+      university: Islamic Arabic University
+      time: 2017 – 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,114 +73,80 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 projects:
-    title: Projects
+    title: Activities
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Blockchain Olympiad Bangladesh 2020
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Participated in Blockchain Olympiad Bangladesh 2020 and Achieved 19th position in The Final round. Interacted with national and international Specialist including two assigned mentors for the team.
 
-      - title: DevStudio
+      - title: Cisco Networking Academy national skills competition
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Participated in Cisco Networking Academy national skills competition 2020 and learned from a Special Networking Academy Learning Module in Cyber Security.
 
-      - title: Tempo
+      - title: Microsoft Ignite Azure Apps & Infrastructure Challenge
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: Successfully completed all the modules and gained a free Certification Voucher from Microsoft by Participating in Microsoft Ignite Azure Apps & Infrastructure Challenge.
 
-      - title: Atom
+      - title: Kaspersky Cyber Security Challenge 2019
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: Participated in Kaspersky Cyber Security Challenge 2019 Where I leaded a team of totl four members.
 
-      - title: Delta
+      - title: National Cyber Drill 2020 Bangladesh
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: Participated in National Cyber Drill 2020 Bangladesh.
 
 publications:
-    title: Publications
+    title: Certification
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
+      - title: Google IT Support Professional Certificate
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Google
+        conference: an eight-month intensive IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes evaluative hands-on assessments.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: SRE and DevOps Engineer with Google Cloud Professional Certificate
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: Google
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Cloud Engineering with Google Cloud
         link: "#"
-        authors: Edgar T. Irons
+        authors: Google
         conference: "Comm. ACM 4 (1961), 51–55"
+
+      - title: Software Testing and Automation Specialization
+        link: "#"
+        authors: University of Minnesota
+        conference: A Complete Specialization Course in Coursera that covers black-box and white-box testing, automated testing, web & mobile testing, and formal testing theory and techniques, prepare to plan and perform effective testing of software.
+      
+      - title: Continuous Delivery & DevOps
+        link: "#"
+        authors: University of Virginia
+        conference: A comprehensive four weeks long course in Coursera, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, to provide the interdisciplinary skill set to cultivate a continuous deployment capability in an organization.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Cloud Computing
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Linux
+        level: 90%
+
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DevOps
+        level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Cloud Networking
+        level: 75%
+
+      - name: Software Testing
+        level: 70%
